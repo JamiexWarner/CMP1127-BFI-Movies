@@ -1,0 +1,6 @@
+/Users/jamie/Projects/BFi_Movie_Assignment/BFi_Movie_Assignment/bin/Debug/BFi_Movie_Assignment.exe
+/Users/jamie/Projects/BFi_Movie_Assignment/BFi_Movie_Assignment/bin/Debug/BFi_Movie_Assignment.pdb
+/Users/jamie/Projects/BFi_Movie_Assignment/BFi_Movie_Assignment/obj/x86/Debug/BFi_Movie_Assignment.csprojAssemblyReference.cache
+/Users/jamie/Projects/BFi_Movie_Assignment/BFi_Movie_Assignment/obj/x86/Debug/BFi_Movie_Assignment.csproj.CoreCompileInputs.cache
+/Users/jamie/Projects/BFi_Movie_Assignment/BFi_Movie_Assignment/obj/x86/Debug/BFi_Movie_Assignment.exe
+/Users/jamie/Projects/BFi_Movie_Assignment/BFi_Movie_Assignment/obj/x86/Debug/BFi_Movie_Assignment.pdb
